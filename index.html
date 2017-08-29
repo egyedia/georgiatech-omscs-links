@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html ng-app="homepageApp">
+    <head>
+        <link href='css/style.css' rel='stylesheet'>
+        <script src="js/angular.min.js"></script>
+        <script src="js/script.js"></script>
+        <script src="js/jquery-1.12.1.min.js"></script>
+        <script src="js/masonry.pkgd.min.js"></script>
+        <script src="mycontent.js"></script>
+
+        <script>
+            var jq = jQuery.noConflict();
+        </script>
+
+        <meta charset=utf-8 />
+        <title>Georgia Tech OMSCS Resources</title>
+    </head>
+    <body ng-controller="HomeCtrl">
+        <div id="grid">
+            <div class="grid-item {{box.cssClass}}" ng-repeat="box in boxes" ng-repeat-finished="repeatFinished">
+                <div class="grid-item-inner">
+                    <h1>{{box.title}}</h1>
+                    <ul>
+                        <li ng-repeat="(url, title) in box.links"><a href="{{url}}" target="_blank">{{title}}</a></li>
+                    </ul>
+                    <dl>
+                        <dd ng-repeat="line in box.lines">{{line}}</dd>
+                    </dl>
+                    <dl>
+                        <span ng-repeat="(title, def) in box.definitions">
+                            <dt>{{title}}</dt>
+                            <div ng-if="!isArray(def)">
+                                <dd>{{def}}</dd>
+                            </div> 
+                            <div ng-if="isArray(def)">
+                                <dd ng-repeat="defline in def">{{defline}}</dd>
+                            </div> 
+                        </span>
+                    </dl>
+                    <span ng-repeat="(id, lines) in box.contents">
+                        <p ng-bind-html="getHTML(lines)"></p>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,156 @@
+body {
+  margin: 10px;
+}
+
+body * {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: #008800;
+}
+
+.grid-item {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  box-shadow: 0px 0px 4px #aaaaaa;
+  transition: box-shadow 0.5s;
+  float: left;
+  background-color: #fafafa;
+  width: 300px;
+  margin-bottom: 20px;
+}
+
+.grid-item--width2 {
+  width: 620px;
+}
+
+.grid-item:hover {
+  box-shadow: 2px 2px 10px #aaaaaa;
+}
+
+.grid-item h1 {
+  color: #005500;
+  background-color: #eeeeee;
+  padding:5px;
+}
+
+.grid-item-inner {
+  padding: 10px;
+}
+
+ul {
+  margin: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 0px;
+  list-style-type: none;
+}
+
+li {
+  margin: 5px 0px 0px 0px;
+  padding: 2px;
+}
+
+li:hover {
+  background-color: #559988;
+}
+
+li:hover * {
+  color: #ffffff;
+}
+
+li:hover:before {
+  content: "- ";
+  color: #000000;
+  margin-left: -10px;
+}
+
+dt {
+  background-color: #ddeedd;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+dd {
+  font-family: monospace;
+  font-size: 12px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 20px;
+}
+
+/* Console */
+div.console {
+  background-color: #555555;
+  color: #ffffff;
+}
+
+div.console dt {
+  background-color: #777777;
+}
+
+div.console h1 {
+  background-color: #aaaaaa;
+  color: #ffffff;
+}
+
+/* Git */
+div.git {
+  background-color: #90c8f0;
+  color: #ffffff;
+}
+
+div.git dt {
+  background-color: #555555;
+}
+
+div.git h1 {
+  background-color: #aaaaaa;
+  color: #ffffff;
+}
+
+/* Class */
+div.class {
+  background-color: #eaeff4;
+}
+
+/* Georgia Tech */
+div.gatech {
+  background-color: #EEB211;
+}
+
+div.gatech a {
+  color: #000000 ! important;
+}
+
+div.gatech h1 {
+  color: #000000 ! important;
+}
+
+div.gatech li:hover {
+  background-color: #000000;
+}
+
+div.gatech li:hover a {
+  color: #ffffff ! important;
+}
+
+/* Udacity */
+div.udacity a {
+  color: #02b3e4 ! important;
+}
+
+div.udacity h1 {
+  background-color: #02b3e4 ! important;
+  color: #ffffff ! important;
+}
+
+div.udacity li:hover {
+  background-color: #02b3e4;
+}
+
+div.udacity li:hover a {
+  color: #ffffff ! important;
+}
