@@ -17,7 +17,8 @@ var myContent = [
         "title": "Udacity",
         "cssClass": "udacity",
         "links": {
-            "https://auth.udacity.com/sign-in?status=401&next=https://classroom.udacity.com": "Classroom",
+            "https://auth.udacity.com/sign-in?status=401&next=https://classroom.udacity.com": "Login to Classroom",
+            "https://classroom.udacity.com/me": "My Classroom",
         }
     },
     {
@@ -32,6 +33,10 @@ var myContent = [
         "links": {
             "https://piazza.com/class/j6jkxy4k9zq6gc": "Piazza",
             "https://t-square.gatech.edu/portal/site/gtc-5ba4-183a-56d1-8f99-0cce84a65e46": "T-Square",
+            "https://files.t-square.gatech.edu/access/content/group/gtc-5ba4-183a-56d1-8f99-0cce84a65e46/Course%20Syllabus.pdf": "Syllabus",
+            "https://files.t-square.gatech.edu/access/content/group/gtc-5ba4-183a-56d1-8f99-0cce84a65e46/Course%20Schedule.pdf": "Course Schedule",
+            "https://files.t-square.gatech.edu/access/content/group/gtc-5ba4-183a-56d1-8f99-0cce84a65e46/Course%20Policies.pdf": "Course Policies",
+            "https://classroom.udacity.com/courses/ud436": "Udacity"
         }
     },
     {
@@ -42,32 +47,14 @@ var myContent = [
             "https://t-square.gatech.edu/portal/site/gtc-eca3-4f31-54ae-a5df-a92a8370479e": "T-Square",
             "https://docs.google.com/document/d/1qxbXxFXFRnne4I6V9KE3uQ88Y23bJHRbP9o3hRaFXsE": "Course management and Instructor/TA",
             "https://docs.google.com/document/d/1XK_e102CY33smoI7cnS4y0DcpcKV9CnoHu1OTsudJ7Y": "Syllabus/Schedule",
+            "https://classroom.udacity.com/courses/ud459": "Udacity"
         }
     },
     {
-        "title": "Search",
-        "contents": {
-            "googleSearch": [
-                "<form action='http://google.com/search'>",
-                "<div style='width:80px; float:left'>Google:</div> <input autocomplete='off' name='q' id='googleSearch' style='width:100px'",
-                "style='border:1px solid #aaaaaa; padding: 2px; margin: 0px; height: 20px; width: 150px;'/>",
-                "</form>"
-            ],
-            "wikipediaSearch": [
-                "<form action='https://en.wikipedia.org/wiki/Special:Search'>",
-                "<div style='width:80px; float:left'>Wikipedia:</div> <input autocomplete='off' name='search' style='width:100px'",
-                "style='border:1px solid #aaaaaa; padding: 2px; margin: 0px; height: 20px; width: 150px;'/>",
-                "</form>"
-            ]
+        "title": "Source",
+        "cssClass": "git",
+        "links": {
+            "https://github.com/egyedia/georgiatech-omscs-links": "\"OMSCS Links\" on Github",
         }
-    },
-    {
-        "title": "Git",
-        "cssClass": "grid-item--width2 git",
-        "lines": [
-            "If you want to modify the content, clone the repo as follows",
-            " : ",
-            "git clone https://github.com/egyedia/georgiatech-omscs-links.git",
-        ]
     },
 ];

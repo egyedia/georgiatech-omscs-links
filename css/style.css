@@ -98,8 +98,10 @@ div.console h1 {
 
 /* Git */
 div.git {
-  background-color: #90c8f0;
-  color: #ffffff;
+}
+
+div.git a {
+  color: #0366d6;
 }
 
 div.git dt {
@@ -107,8 +109,16 @@ div.git dt {
 }
 
 div.git h1 {
-  background-color: #aaaaaa;
+  background-color: #000000;
   color: #ffffff;
+}
+
+div.git li:hover {
+  background-color: #ffffff;
+}
+
+div.git a:hover {
+  text-decoration: underline;
 }
 
 /* Class */
