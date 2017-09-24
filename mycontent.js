@@ -8,6 +8,9 @@ var myContent = [
             "http://www.omscs.gatech.edu/current-courses": "Current Courses",
             "https://t-square.gatech.edu/": "T-Square",
             "http://piazza.com/": "Piazza",
+            "https://passport.gatech.edu/": "Passport",
+            "http://mail.gatech.edu/": "Webmail - Office 365 Outlook",
+            "https://testing.verificient.com/": "Test - Proctor Track",
             "https://oscar.gatech.edu/": "OSCAR",
             "https://docs.google.com/document/d/1ZtWIxQht7OSfB0ey--U3pvI4pisfZsKo_usvLzlXBQo/": "OMSCS FAQ",
             "https://www.youtube.com/watch?v=wEGkk6L7yq0&list=PLtYJ8HXD0d7BRjUZSYJhLz5_nLX5GvXRG&index=1": "Youtube: Welcome to Georgia Tech!"
