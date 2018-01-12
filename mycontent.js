@@ -4,7 +4,7 @@ var myContent = [
         "cssClass": "gatech",
         "links": {
             "https://buzzport.gatech.edu/": "BuzzPort",
-            "http://www.registrar.gatech.edu/calendar/index.php": "Academic Calendar",
+            "https://registrar.gatech.edu/calendar?view=table": "Academic Calendar",
             "http://www.omscs.gatech.edu/current-courses": "Current Courses",
             "https://t-square.gatech.edu/": "T-Square",
             "http://piazza.com/": "Piazza",
@@ -31,26 +31,27 @@ var myContent = [
         }
     },
     {
-        "title": "CS-6250-O01 - Computer Networks",
+        "title": "6220 - High-Performance Computing",
         "cssClass": "class",
         "links": {
-            "https://piazza.com/class/j6jkxy4k9zq6gc": "Piazza",
-            "https://t-square.gatech.edu/portal/site/gtc-5ba4-183a-56d1-8f99-0cce84a65e46": "T-Square",
-            "https://files.t-square.gatech.edu/access/content/group/gtc-5ba4-183a-56d1-8f99-0cce84a65e46/Course%20Syllabus.pdf": "Syllabus",
-            "https://files.t-square.gatech.edu/access/content/group/gtc-5ba4-183a-56d1-8f99-0cce84a65e46/Course%20Schedule.pdf": "Course Schedule",
-            "https://files.t-square.gatech.edu/access/content/group/gtc-5ba4-183a-56d1-8f99-0cce84a65e46/Course%20Policies.pdf": "Course Policies",
-            "https://classroom.udacity.com/courses/ud436": "Udacity"
+            "https://piazza.com/class/jc1hs75li6m7d9": "Piazza",
+            "https://t-square.gatech.edu/portal/site/gtc-5eba-dfc9-5a69-9060-f81992587653": "T-Square",
+            "https://cse6220.gatech.edu/sp18-oms/": "Course own website",
+            "https://cse6220.gatech.edu/sp18-oms/#about": "About the course",
+            "https://docs.google.com/spreadsheets/d/15oHmLWoozH-ugVuJ4imI4Bca-p2fzI03RUXQCMS4v-I/edit#gid=0": "Course Schedule",
+            "https://classroom.udacity.com/courses/ud281": "Udacity"
         }
     },
     {
-        "title": "CS-6035-O01 - Intro To Info Security",
+        "title": "6750 - Human-Computer Interaction",
         "cssClass": "class",
         "links": {
-            "https://piazza.com/class/j6lge3y4u496by": "Piazza",
-            "https://t-square.gatech.edu/portal/site/gtc-eca3-4f31-54ae-a5df-a92a8370479e": "T-Square",
-            "https://docs.google.com/document/d/1qxbXxFXFRnne4I6V9KE3uQ88Y23bJHRbP9o3hRaFXsE": "Course management and Instructor/TA",
-            "https://docs.google.com/document/d/1XK_e102CY33smoI7cnS4y0DcpcKV9CnoHu1OTsudJ7Y": "Syllabus/Schedule",
-            "https://classroom.udacity.com/courses/ud459": "Udacity"
+            "https://piazza.com/class/jbu1v11roji5d4": "Piazza",
+            "https://gatech.instructure.com/courses/9591": "Canvas",
+            "http://omscs6750.gatech.edu/spring-2018/": "Course own website",
+            "https://gatech.instructure.com/courses/9591/assignments/syllabus": "Syllabus on Canvas",
+            "http://omscs6750.gatech.edu/spring-2018/full-calendar/": "Course Calendar",
+            "https://classroom.udacity.com/courses/ud400": "Udacity"
         }
     },
     {
