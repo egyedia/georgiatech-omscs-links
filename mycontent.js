@@ -31,18 +31,6 @@ var myContent = [
         }
     },
     {
-        "title": "6220 - High-Performance Computing",
-        "cssClass": "class",
-        "links": {
-            "https://piazza.com/class/jc1hs75li6m7d9": "Piazza",
-            "https://t-square.gatech.edu/portal/site/gtc-5eba-dfc9-5a69-9060-f81992587653": "T-Square",
-            "https://cse6220.gatech.edu/sp18-oms/": "Course own website",
-            "https://cse6220.gatech.edu/sp18-oms/#about": "About the course",
-            "https://docs.google.com/spreadsheets/d/15oHmLWoozH-ugVuJ4imI4Bca-p2fzI03RUXQCMS4v-I/edit#gid=0": "Course Schedule",
-            "https://classroom.udacity.com/courses/ud281": "Udacity"
-        }
-    },
-    {
         "title": "6750 - Human-Computer Interaction",
         "cssClass": "class",
         "links": {
@@ -51,7 +39,19 @@ var myContent = [
             "http://omscs6750.gatech.edu/spring-2018/": "Course own website",
             "https://gatech.instructure.com/courses/9591/assignments/syllabus": "Syllabus on Canvas",
             "http://omscs6750.gatech.edu/spring-2018/full-calendar/": "Course Calendar",
-            "https://classroom.udacity.com/courses/ud400": "Udacity"
+            "https://classroom.udacity.com/courses/ud400": "Udacity",
+            "https://t-square.gatech.edu/portal/site/gtc-3ed6-d2a6-5e03-b1d4-fcd4136596b4": "T-Square - not used"
+        }
+    },
+    {
+        "title": "7641 - Machine Learning",
+        "cssClass": "class",
+        "links": {
+            "https://piazza.com/class/jc2dhebfn0n2qo": "Piazza",
+            "https://gatech.instructure.com/courses/7194": "Canvas",
+            "https://gatech.instructure.com/courses/7194/assignments/syllabus": "Syllabus on Canvas",
+            "https://classroom.udacity.com/courses/ud262": "Udacity",
+            "https://t-square.gatech.edu/portal/site/gtc-10ef-e3fe-5897-9e5b-9e4159097377": "T-Square - not used"
         }
     },
     {
