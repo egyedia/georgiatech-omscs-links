@@ -6,7 +6,7 @@
         <script src="js/script.js"></script>
         <script src="js/jquery-1.12.1.min.js"></script>
         <script src="js/masonry.pkgd.min.js"></script>
-        <script src="mycontent.js"></script>
+        <script src="mycontent.js?cK=20180118-01"></script>
 
         <script>
             var jq = jQuery.noConflict();
@@ -17,7 +17,7 @@
     </head>
     <body ng-controller="HomeCtrl">
         <div id="grid">
-            <div class="grid-item {{box.cssClass}}" ng-repeat="box in boxes" ng-repeat-finished="repeatFinished">
+            <div class="grid-item {{box.cssClass}}" ng-repeat="box in boxes" ng-repeat-finished="repeatFinished" ng-hide="box.hidden">
                 <div class="grid-item-inner">
                     <h1>{{box.title}}</h1>
                     <ul>

@@ -20,6 +20,7 @@ var myContent = [
         }
     },
     {
+        "hidden": true,
         "title": "Georgia Tech Bursar",
         "cssClass": "gatech",
         "links": {
@@ -29,6 +30,7 @@ var myContent = [
         }
     },
     {
+        "hidden": true,
         "title": "Georgia Tech Third Party Billing",
         "cssClass": "gatech",
         "links": {
@@ -60,6 +62,7 @@ var myContent = [
             "https://piazza.com/class/jbu1v11roji5d4": "Piazza",
             "https://gatech.instructure.com/courses/9591": "Canvas",
             "http://omscs6750.gatech.edu/spring-2018/": "Course own website",
+            "https://peerfeedback.gatech.edu/": "Peer Review",
             "https://gatech.instructure.com/courses/9591/assignments/syllabus": "Syllabus on Canvas",
             "https://t-square.gatech.edu/portal/site/gtc-3ed6-d2a6-5e03-b1d4-fcd4136596b4": "T-Square - not used"
         }
