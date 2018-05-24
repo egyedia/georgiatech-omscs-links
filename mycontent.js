@@ -53,29 +53,13 @@ var myContent = [
         }
     },
     {
-        "title": "6750 - Human-Computer Interaction",
+        "title": "6242 - Data & Visual Analytics",
         "cssClass": "class",
         "links": {
-            "http://omscs6750.gatech.edu/spring-2018/required-reading-list/": "Required Reading List",
-            "http://omscs6750.gatech.edu/spring-2018/full-calendar/": "Spring 2018 Course Calendar",
-            "https://classroom.udacity.com/courses/ud400": "Udacity",
-            "https://piazza.com/class/jbu1v11roji5d4": "Piazza",
-            "https://gatech.instructure.com/courses/9591": "Canvas",
-            "http://omscs6750.gatech.edu/spring-2018/": "Course own website",
-            "https://peerfeedback.gatech.edu/": "Peer Review",
-            "https://gatech.instructure.com/courses/9591/assignments/syllabus": "Syllabus on Canvas",
-            "https://t-square.gatech.edu/portal/site/gtc-3ed6-d2a6-5e03-b1d4-fcd4136596b4": "T-Square - not used"
-        }
-    },
-    {
-        "title": "7641 - Machine Learning",
-        "cssClass": "class",
-        "links": {
-            "https://piazza.com/class/jc2dhebfn0n2qo": "Piazza",
-            "https://gatech.instructure.com/courses/7194": "Canvas",
-            "https://gatech.instructure.com/courses/7194/assignments/syllabus": "Syllabus on Canvas",
-            "https://classroom.udacity.com/courses/ud262": "Udacity",
-            "https://t-square.gatech.edu/portal/site/gtc-10ef-e3fe-5897-9e5b-9e4159097377": "T-Square - not used"
+            "https://classroom.udacity.com/courses/ud404": "Udacity",
+            "https://piazza.com/class/jh5lwawp6y942b": "Piazza",
+            "https://gatech.instructure.com/courses/18058": "Canvas",
+            "https://oms-cse6242.slack.com/": "Slack"
         }
     },
     {
