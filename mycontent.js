@@ -53,13 +53,20 @@ var myContent = [
         }
     },
     {
-        "title": "6242 - Data & Visual Analytics",
+        "title": "CS 6460: Educational Technology",
         "cssClass": "class",
         "links": {
-            "https://classroom.udacity.com/courses/ud404": "Udacity",
-            "https://piazza.com/class/jh5lwawp6y942b": "Piazza",
-            "https://gatech.instructure.com/courses/18058": "Canvas",
-            "https://oms-cse6242.slack.com/": "Slack"
+            "https://classroom.udacity.com/courses/ud915": "Udacity - video",
+            "https://www.udacity.com/wiki/Educational_Technology": "Udacity - wiki",
+            "https://cs6460.github.io/CourseLibrary/": "Course Beta version",
+            "https://piazza.com/class/jkea4pvwzkf494": "Piazza",
+            "https://gatech.instructure.com/courses/26123": "Canvas",
+            "https://omscs6460.slack.com/": "Slack",
+            "http://omscs6460.gatech.edu/": "Course Website",
+            "http://omscs6460.gatech.edu/fall-2018/full-calendar/": "Course Website: Full Calendar",
+            "http://omscs6460.gatech.edu/fall-2018/": "Course Website: 2018 Fall",
+            "https://peerfeedback.gatech.edu/": "Peer Feedback",
+            "http://peersurvey.cc.gatech.edu/": "Peer Survey"
         }
     },
     {
