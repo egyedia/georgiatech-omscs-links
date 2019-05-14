@@ -53,20 +53,13 @@ var myContent = [
         }
     },
     {
-        "title": "CS 6460: Educational Technology",
+        "title": "CS 6263: Introduction to Cyber-Physical Systems Security",
         "cssClass": "class",
         "links": {
-            "https://classroom.udacity.com/courses/ud915": "Udacity - video",
-            "https://www.udacity.com/wiki/Educational_Technology": "Udacity - wiki",
-            "https://cs6460.github.io/CourseLibrary/": "Course Beta version",
-            "https://piazza.com/class/jkea4pvwzkf494": "Piazza",
-            "https://gatech.instructure.com/courses/26123": "Canvas",
-            "https://omscs6460.slack.com/": "Slack",
-            "http://omscs6460.gatech.edu/": "Course Website",
-            "http://omscs6460.gatech.edu/fall-2018/full-calendar/": "Course Website: Full Calendar",
-            "http://omscs6460.gatech.edu/fall-2018/": "Course Website: 2018 Fall",
-            "https://peerfeedback.gatech.edu/": "Peer Feedback",
-            "http://peersurvey.cc.gatech.edu/": "Peer Survey"
+            "https://classroom.udacity.com/courses/ud279": "Udacity - video",
+            "https://piazza.com/class/ju8yeunjet4la": "Piazza",
+            "https://gatech.instructure.com/courses/45752": "Canvas",
+            "http://rbeyah.ece.gatech.edu/classes/summer2019/cs6263/": "Syllabus"
         }
     },
     {
