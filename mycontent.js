@@ -53,13 +53,13 @@ var myContent = [
         }
     },
     {
-        "title": "CS 6263: Introduction to Cyber-Physical Systems Security",
+        "title": "CSE 6250: Big Data for Healthcare ",
         "cssClass": "class",
         "links": {
-            "https://classroom.udacity.com/courses/ud279": "Udacity - video",
-            "https://piazza.com/class/ju8yeunjet4la": "Piazza",
-            "https://gatech.instructure.com/courses/45752": "Canvas",
-            "http://rbeyah.ece.gatech.edu/classes/summer2019/cs6263/": "Syllabus"
+            "https://classroom.udacity.com/courses/ud758": "Udacity - video",
+            "https://piazza.com/class/jxaghvsf2i16a2": "Piazza",
+            "https://gatech.instructure.com/courses/57528": "Canvas",
+            "http://sunlab.org/teaching/cse6250/fall2019/schedule.html": "Schedule"
         }
     },
     {
