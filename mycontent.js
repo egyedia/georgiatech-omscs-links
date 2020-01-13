@@ -15,6 +15,7 @@ var myContent = [
             "https://testing.verificient.com/": "Test - Proctor Track",
             "https://oscar.gatech.edu/": "OSCAR",
             "http://bursar.gatech.edu/": "Bursar",
+            "https://support.cc.gatech.edu/facilities/general-access-servers": "General Access Servers",
             "https://docs.google.com/document/d/1ZtWIxQht7OSfB0ey--U3pvI4pisfZsKo_usvLzlXBQo/": "OMSCS FAQ",
             "https://www.youtube.com/watch?v=wEGkk6L7yq0&list=PLtYJ8HXD0d7BRjUZSYJhLz5_nLX5GvXRG&index=1": "Youtube: Welcome to Georgia Tech!"
         }
@@ -53,13 +54,13 @@ var myContent = [
         }
     },
     {
-        "title": "CSE 6250: Big Data for Healthcare ",
+        "title": "CSE 7641: Machine Learning",
         "cssClass": "class",
         "links": {
-            "https://classroom.udacity.com/courses/ud758": "Udacity - video",
-            "https://piazza.com/class/jxaghvsf2i16a2": "Piazza",
-            "https://gatech.instructure.com/courses/57528": "Canvas",
-            "http://sunlab.org/teaching/cse6250/fall2019/schedule.html": "Schedule"
+            "https://classroom.udacity.com/courses/ud262": "Udacity - video",
+            "https://piazza.com/class/k51r1vdohil5g3": "Piazza",
+            "https://gatech.instructure.com/courses/105138": "Canvas",
+            "https://gatech.instructure.com/courses/105138/assignments/syllabus": "Syllabus"
         }
     },
     {
