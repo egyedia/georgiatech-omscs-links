@@ -54,7 +54,7 @@ var myContent = [
         }
     },
     {
-        "title": "CSE 7641: Machine Learning",
+        "title": "CS 7641: Machine Learning",
         "cssClass": "class",
         "links": {
             "https://classroom.udacity.com/courses/ud262": "Udacity - video",
