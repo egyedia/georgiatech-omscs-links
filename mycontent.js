@@ -54,13 +54,15 @@ var myContent = [
         }
     },
     {
-        "title": "CS 7641: Machine Learning",
+        "title": "CS 6515: Intro into Graduate Algorithms",
         "cssClass": "class",
         "links": {
-            "https://classroom.udacity.com/courses/ud262": "Udacity - video",
-            "https://piazza.com/class/k51r1vdohil5g3": "Piazza",
-            "https://gatech.instructure.com/courses/105138": "Canvas",
-            "https://gatech.instructure.com/courses/105138/assignments/syllabus": "Syllabus"
+            "https://classroom.udacity.com/courses/ud401": "Udacity - video",
+            "https://piazza.com/class/k9ysab2a9v24v5": "Piazza",
+            "https://gatech.instructure.com/courses/117900": "Canvas",
+            "https://gatech.instructure.com/courses/117900/modules": "Canvas - Modules",
+            "https://www.gradescope.com/courses/128406": "Gradescope - Homework",
+            "https://gt-algorithms.com/": "Website - older"
         }
     },
     {
